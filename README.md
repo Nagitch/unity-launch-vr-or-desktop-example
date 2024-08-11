@@ -1,4 +1,4 @@
-Unity Launch VR or Desktop Example
+# Unity Launch VR or Desktop Example
 
 very essential scripting example for switching VR or Desktop mode after launch scene.
 
